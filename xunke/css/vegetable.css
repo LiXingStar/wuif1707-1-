@@ -125,7 +125,7 @@ header img{
 	height: 25px;
 	font-size: 14px;
 	line-height: 25px;
-	background: rgb(51, 93, 199);
+	/* background: rgb(51, 93, 199); */
 	color: #fff;
 	text-align: center;
 }

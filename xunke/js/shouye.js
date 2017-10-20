@@ -7,10 +7,12 @@ window.onload=function(){
 		if (top>=150) {
 			head.style.background= '#335DC7';
 			dingbu.style.display = 'block';
+			$('.head ul li').css({background:'rgb(51, 93, 199)'})
 		}
 		if(top<150){
 			head.style.background= 'none';
 			dingbu.style.display = 'none';
+			$('.head ul li').css({background:'rgba(51, 93, 199,0)'})
 		}
 	}
 	let floor = $('.floor');
