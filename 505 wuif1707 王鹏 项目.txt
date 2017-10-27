@@ -1,0 +1,13 @@
+game:
+1.playword----- https://futurewp.github.io/wp-GAME/playword/index.html
+2.snake-----    https://futurewp.github.io/wp-GAME/snake/snake.html
+3.pukepai-----  https://futurewp.github.io/wp-GAME/pukepai/pulepai.html
+4.wuziqi------  https://futurewp.github.io/wp-GAME/fiveziqi/index.html
+
+project
+5.huaban------  https://futurewp.github.io/wp-GAME/huabanbox/hb.html
+7.message-----  https://futurewp.github.io/wp-GAME/leaveamessage/leavemessage.html
+8.calllist----  https://futurewp.github.io/wp-GAME/callList/call.html
+
+
+9.lvyou------   https://futurewp.github.io/wp-GAME/lvyou/sy.html
