@@ -1,3 +1,10 @@
+
+
+pingsheng---- https://futurewp.github.io/wp-GAME/wppingshen/aa.html
+
+
+
+
 game:
 1.playword----- https://futurewp.github.io/wp-GAME/playword/index.html
 2.snake-----    https://futurewp.github.io/wp-GAME/snake/snake.html
@@ -11,3 +18,4 @@ project
 
 
 9.lvyou------   https://futurewp.github.io/wp-GAME/lvyou/sy.html
+
